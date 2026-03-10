@@ -12,6 +12,6 @@ Third year Computer Engineering Student | Passionate in arts and tech!
 ![](https://nirzak-streak-stats.vercel.app/?user=Fergievon&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Fergievon&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-
+![Snake animation](https://github.com/Fergievon/Fergievon/blob/output/github-contribution-grid-snake.svg)
 
 
