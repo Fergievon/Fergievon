@@ -1,6 +1,6 @@
 # Hello, I'm Fergie🌷 
 Third year Computer Engineering Student | Passionate in arts and tech!
-Checkout my Portfolio: https://fergievonteves-portfolio.pages.dev/
+# Checkout my Portfolio: https://fergievonteves-portfolio.pages.dev/
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/fergievonalaika) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/fergievon-teves/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:fergievonteves24@gmail.com) 
